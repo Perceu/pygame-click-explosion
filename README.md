@@ -10,5 +10,5 @@ pip install -r requirements.txt
 
 ## run
 ```
-python fire.py
+python sandbox.py
 ```
