@@ -1,5 +1,5 @@
-# pygame-doom-fire
-implementação do algoritimo do doom em pygame.
+# pygame-click-explosion
+implementação do algoritimo de exploções de dissipação aleatoria.
 
 ## install 
 ```
